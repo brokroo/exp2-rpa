@@ -1,10 +1,10 @@
 # EXP-2 Welcome message in Message box with IF Condition and Switch case
 ## NAME : SANJITH.R
 ## REG.NO : 212223230191
-AIM :
+## AIM :
 to create a Welcome message in Message box with IF Condition and Switch case.
 
-PROCEDURE :
+## PROCEDURE :
 IF Condition Robot (special for RAM)
 
 IF:
