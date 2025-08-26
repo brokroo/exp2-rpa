@@ -75,3 +75,22 @@ Add Default → Message Box:
 "Welcome " & userName
 
 Run ▶ → type different names.
+
+## WorkFlow:
+<img width="1591" height="820" alt="Screenshot 2025-08-26 084507" src="https://github.com/user-attachments/assets/ac96e875-8ee2-4b24-96d8-6aa3885189f1" />
+<img width="1589" height="830" alt="Screenshot 2025-08-26 084513" src="https://github.com/user-attachments/assets/6611a21d-593d-4275-923d-0916c05e1398" />
+## Output:
+## IF-ELSE:
+<img width="1598" height="820" alt="Screenshot 2025-08-26 084447" src="https://github.com/user-attachments/assets/68433c8d-8fe8-4d86-ac39-d586c09871ee" />
+<img width="1594" height="831" alt="Screenshot 2025-08-26 084921" src="https://github.com/user-attachments/assets/6b85ce1d-e0b3-4183-866a-1652ebf68bbc" />
+
+
+## SWITCH:
+<img width="1598" height="820" alt="Screenshot 2025-08-26 084447" src="https://github.com/user-attachments/assets/68433c8d-8fe8-4d86-ac39-d586c09871ee" />
+<img width="1594" height="831" alt="Screenshot 2025-08-26 084921" src="https://github.com/user-attachments/assets/6b85ce1d-e0b3-4183-866a-1652ebf68bbc" />
+
+## RESULT:
+Thus the process to display Welcome message in Message box with IF Condition and Switch case is created successfully.
+
+
+
